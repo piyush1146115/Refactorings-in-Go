@@ -1,7 +1,7 @@
 package Replace_Method_with_Method_Object
 
 // problem:
-//You have a long method in which the local variables are so intertwined that you can’t apply Extract Method.
+//You have a long method in which the local variables are so intertwined that you can’t apply Extract-Method.
 
 // Why Refactor:
 // Firstly, this allows isolating the problem at the class level.
