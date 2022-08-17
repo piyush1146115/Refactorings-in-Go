@@ -1,3 +1,5 @@
+# Extract class
+
 ## Ref: https://refactoring.guru/extract-class
 
 ## Problem:
